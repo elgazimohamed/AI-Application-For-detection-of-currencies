@@ -1,2 +1,2 @@
 # Desktop-application-detection-of-currencies
-Desktop Application Detection of Currencies using Python, Deep Learning, Tensorflow, OpenCV, Tkinter.
+Desktop application for currency detection (MAD & EURO) using Python, Deep Learning, Tensorflow, OpenCV, Tkinter.
